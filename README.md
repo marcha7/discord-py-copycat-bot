@@ -1,4 +1,4 @@
-# Pk's py Discord copycat
+# Python Discord copycat
 
 A simple discord bot that repeats what is said in a given channel
 
@@ -8,13 +8,11 @@ A simple discord bot that repeats what is said in a given channel
 - *unauthorize : to unallow the bot to function in this channel
 - *unauthorize_all : to unallow the bot to function in all channels
 - *is_authorized : says if the bot is allowed to function in the current channel
-- *puck : for a surprise
 
 ## Prerequisites
 
 - Python (preferably Python 3.11)
 - a configured Discord Bot + Token
-- a Riot development API Key
 
 ## How to install
 
